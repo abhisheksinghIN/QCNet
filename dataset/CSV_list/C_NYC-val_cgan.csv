@@ -1,0 +1,6 @@
+image_fn,label_fn
+./dataset/Chesapeake_NewYork_dataset/val/HR_image_CGAN/m_4207409_se_18_1_naip-new.tif,./dataset/Chesapeake_NewYork_dataset/val/LR_label/m_4207409_se_18_1_nlcd.tif
+./dataset/Chesapeake_NewYork_dataset/val/HR_image_CGAN/m_4207410_nw_18_1_naip-new.tif,./dataset/Chesapeake_NewYork_dataset/val/LR_label/m_4207410_nw_18_1_nlcd.tif
+./dataset/Chesapeake_NewYork_dataset/val/HR_image_CGAN/m_4207546_se_18_1_naip-new.tif,./dataset/Chesapeake_NewYork_dataset/val/LR_label/m_4207546_se_18_1_nlcd.tif
+./dataset/Chesapeake_NewYork_dataset/val/HR_image_CGAN/m_4207555_sw_18_1_naip-new.tif,./dataset/Chesapeake_NewYork_dataset/val/LR_label/m_4207555_sw_18_1_nlcd.tif
+./dataset/Chesapeake_NewYork_dataset/val/HR_image_CGAN/m_4207716_nw_18_1_naip-new.tif,./dataset/Chesapeake_NewYork_dataset/val/LR_label/m_4207716_nw_18_1_nlcd.tif
