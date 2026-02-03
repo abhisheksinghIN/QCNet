@@ -36,6 +36,7 @@ class QuantumConv(nn.Module):
         self.norm = nn.LayerNorm(out_channels)
 
     def forward(self, x):
+        #B, C, H, W = x.shape
         B, C, H, W = x.shape
         p = self.patch_size
         # unfold patches
@@ -358,3 +359,4 @@ class QuantumUNet(nn.Module):
 #        x = self.final_conv(x)  # [B, num_classes, H, W]
 #        return x
 #
+
